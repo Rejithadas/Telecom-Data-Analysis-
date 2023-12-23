@@ -2,7 +2,7 @@
 
 **Interactive Dashboard**: https://www.novypro.com/project/wavecon-telecom-data-analysis--power-bi
 
-**Video Presentation: https**://github.com/Rejithadas/Telecom-Data-Analysis-/blob/main/Wavecon%20Telecom%20Presentation.mp4
+**Video Presentation**: https://github.com/Rejithadas/Telecom-Data-Analysis-/blob/main/Wavecon%20Telecom%20Presentation.mp4
 
 ## Overview
 Wavecon is a prominent telecom provider in India that ventured into the 5G domain in May 2022, aligning with industry trends. HDespite the initial excitement surrounding the launch, the management observed a decline in active users and revenue growth. To address these concerns, the business director initiated a comprehensive analysis of Key Performance Indicators (KPIs) during the pre and post-5G launch periods.
